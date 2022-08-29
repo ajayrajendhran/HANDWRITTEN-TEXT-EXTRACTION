@@ -18,4 +18,5 @@ SEGMENTATION The words are segmented into individual letters using OCR
 FEATURE EXTRACTION The major goal of feature extraction is to extract a set of features, which maximizes the recognition rate elements.
 
 CLASSIFICATION This is the decision making stage of recognition system. The classifier contains two hidden layers, using a log sigmoid activation function to train the algorithm.
-the project is done with the association of my other three  collgemates such as Deva Prasath R,Dhanush Karthik K R,Rohin S.
+
+The project is done with the association of my other three  collgemates such as Deva Prasath R,Dhanush Karthik K R,Rohin S.
